@@ -1,0 +1,78 @@
+# Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Razor Pages temporary files
+**/*.g.cs
+**/*.g.i.cs
+**/*.cshtml.cs.cache
+**/*.csproj.user
+**/*.csproj.DotSettings.user
+
+# Dependency directories
+packages/
+node_modules/
+wwwroot/lib/
+
+# User-specific files
+*.rsuser
+*.ide.*
+
+# Logs
+*.log
+logs/
+*.tlog
+
+# ASP.NET Secret files
+*.secrets.json
+secrets/
+
+# Environment files
+.env
+.env.*
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+*.sqlite
+*.db
+
+# Publish output
+publish/
+artifacts/
+
+# Configuration
+appsettings.Production.json
+appsettings.*.local.json
+appsettings.local.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.DS_Store
+Thumbs.db
+
+# JetBrains Rider/IDEA files
+.idea/
+*.sln.iml
+
+# Visual Studio Code workspace files
+*.code-workspace
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
